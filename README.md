@@ -12,11 +12,11 @@
 - 👨‍💻 All of my projects are available at [https://syed-muhammad-sultan-portfolio.vercel.app]
 - 💬 Ask me about **React, Next.js, Tailwind CSS, TypeScript, FastAPI, Python, Node.js, HTML, PostgreSQL, and Shadcn UI.**
 
-- 📫 How to reach me **sultanqaiser835@gmail.com**
+- 📫 How to reach me **03167180162 Whatsapp/ sultanqaiser835@gmail.com Email**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/syed-muhammad-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-muhammad-sultan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/syed-muhammad-sultan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/syed-muhammad-sultan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
